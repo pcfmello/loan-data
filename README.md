@@ -8,6 +8,8 @@ A simple application to show the installments not paid of a loan.
 - [Material-UI](https://material-ui.com/)
 - [Redux](https://redux.js.org/)
 - [Redux-toolkit](https://redux-toolkit.js.org/)
+- [ESLint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
 
 ## Minimum Requisits
 
